@@ -1,0 +1,34 @@
+html,body {
+margin:0;
+padding:0;
+}
+#topo,#corpo{
+width:900px;
+margin:0 auto;
+}
+#topo{
+background:#6cabde;
+}
+#topo img{
+float:left;
+margin:10px;
+height:128px;
+}
+#topo h1{
+margin:0;
+padding:20px;
+}
+menu a{
+color:white;
+text-decoration:none;
+padding:10px;
+margin:0 2px;
+background:#64768d;
+}
+menu a:hover{
+color:yellow;
+}
+i{
+clear:both;
+display:block
+}
