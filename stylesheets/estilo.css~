@@ -40,9 +40,9 @@ border-bottom-left-radius:20px;
 border-bottom-right-radius:0px;
 }
 menu a:hover{
--moz-box-shadow:0 0 12px #C740E7 inset;
--webkit-box-shadow:0 0 12px #C740E7 inset;
-box-shadow:0 0 12px #C740E7 inset;
+-moz-box-shadow:inset 10px 10px 75px #f0f0f0;
+-webkit-box-shadow:inset 10px 10px 75px #f0f0f0;
+box-shadow:inset 10px 10px 75px #f0f0f0;
 color:yellow;
 }
 i{
